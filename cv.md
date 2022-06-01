@@ -35,7 +35,7 @@ function multiply(a, b) {
 ## Education
 
     * Nizhny Novgorod State University (2003-2008) : National economics
-    * Nizhny Novgorod Linguistic University (2003-2008) : Interpreter (English and French)
+    * Nizhny Novgorod State Linguistic University (2003-2008) : Interpreter (English and French)
 
 
 ## Languages
